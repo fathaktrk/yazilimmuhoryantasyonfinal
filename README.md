@@ -6,4 +6,4 @@ Proje açıklamalarının youtube video linki:
 https://youtu.be/f2HTUmYNaKc
 
 Kayıt esnasında telefonum çaldığı için iki video halinde çektim ve bunları birleştirmek zorunda kaldım.
-Birleştimre uygulaması ücretli olduğu için maalesef bu şekilde reklamlı bir video oldu bunun için üzgünüm.
+Birleştirme uygulaması ücretli olduğu için maalesef bu şekilde reklamlı bir video oldu bunun için üzgünüm.
